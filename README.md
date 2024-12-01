@@ -34,8 +34,10 @@ We recommend the following platforms:
 
 ```
 Python 3.10 / Pytorch 11.3 / NVIDIA GeForce RTX 3090 / CUDA 11.6.0 / Ubuntu
+```
 
 ## Prepare data
+
 #### Dataset:
 
 - **Synapse Multi-Organ Dataset**: Sign up in the [official Synapse website](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480) and download the dataset or download the [preprocessed data](https://drive.google.com/file/d/1tGqMx-E4QZpSg2HQbVq5W3KSTHSG0hjK/view?usp=share_link) and save in the `dataset/synapse/` folder.

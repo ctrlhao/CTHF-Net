@@ -16,15 +16,13 @@ stage, we design a layer-wise feature fusion (LWFF) module efficiently merges lo
 LWFF module further integrates the upsampled features at the same stage, allowing the network to more accurately restore image resolution.Comprehensive experiments on four medical datasets demonstrate the superiority, effectiveness, and robustness of our CTHF-Net.
 
 ## Overview
-<img src="./assets/Overrall.png" alt="overall"  />
+<img src="./assets/Overrall.png" alt="Overrall"  />
 
 ## Main Results
 - Synapse Multi-Organ Segmentation
 ![Synapse](./assets/Synapse.png)
-
 - ACDC for Automated Cardiac Segmentation
 ![ACDC](./assets/ACDC.png)
-
 ## Installation
 We recommend the following platforms: 
 
